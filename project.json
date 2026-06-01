@@ -1,7 +1,7 @@
 ﻿{
-  "name": "vibe-coding-08-markdown-slide-deck",
-  "title": "Markdown Slide Deck",
-  "description": "A markdown-to-slides presenter with themes and keyboard navigation.",
-  "type": "static-browser-app"
+    "title":  "Markdown Slide Deck",
+    "description":  "A markdown presentation tool with keyboard navigation, code blocks, and clean themes.",
+    "name":  "markdown-slide-deck",
+    "type":  "static-browser-app"
 }
 
