@@ -1,7 +1,23 @@
 ﻿{
-    "title":  "Markdown Slide Deck",
-    "description":  "A markdown presentation tool with keyboard navigation, code blocks, and clean themes.",
+    "entrypoints":  {
+                        "typescript":  "src/project-manifest.ts",
+                        "html":  "index.html",
+                        "javascript":  "assets/app.js",
+                        "css":  "assets/styles.css",
+                        "python":  "scripts/metadata_check.py"
+                    },
     "name":  "markdown-slide-deck",
-    "type":  "static-browser-app"
+    "description":  "A markdown presentation tool with keyboard navigation, code blocks, and clean themes.",
+    "type":  "static-browser-app",
+    "languages":  [
+                      "HTML",
+                      "CSS",
+                      "JavaScript",
+                      "TypeScript",
+                      "Python",
+                      "JSON",
+                      "Markdown"
+                  ],
+    "title":  "Markdown Slide Deck"
 }
 
